@@ -1,0 +1,3 @@
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/AbstractFactory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/AbstractFactory/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/AbstractFactory/cmake-build-debug/CMakeFiles/AbstractFactory_DesignPattern.dir

@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/Facade/Headers/AccountNumberCheck.h
+
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/Facade/Headers/BankAccountFacade.h
+iostream
+-
+WelcomeToBank.h
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/Facade/Headers/WelcomeToBank.h
+AccountNumberCheck.h
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/Facade/Headers/AccountNumberCheck.h
+SecurityCodeCheck.h
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/Facade/Headers/SecurityCodeCheck.h
+FundsCheck.h
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/Facade/Headers/FundsCheck.h
+
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/Facade/Headers/FundsCheck.h
+
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/Facade/Headers/SecurityCodeCheck.h
+
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/Facade/Headers/WelcomeToBank.h
+
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/Facade/Sources/AccountNumberCheck.cpp
+../Headers/AccountNumberCheck.h
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/Facade/Headers/AccountNumberCheck.h
+
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/Facade/Sources/BankAccountFacade.cpp
+../Headers/BankAccountFacade.h
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/Facade/Headers/BankAccountFacade.h
+
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/Facade/Sources/FundsCheck.cpp
+../Headers/FundsCheck.h
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/Facade/Headers/FundsCheck.h
+iostream
+-
+
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/Facade/Sources/SecurityCodeCheck.cpp
+../Headers/SecurityCodeCheck.h
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/Facade/Headers/SecurityCodeCheck.h
+
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/Facade/Sources/WelcomeToBank.cpp
+../Headers/WelcomeToBank.h
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/Facade/Headers/WelcomeToBank.h
+iostream
+-
+
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/Facade/TestBankAccount.cpp
+iostream
+-
+Headers/BankAccountFacade.h
+/home/emanuel/Documents/ExtraclaseIIDatosII/Ejemplos de código/Facade/Headers/BankAccountFacade.h
+
