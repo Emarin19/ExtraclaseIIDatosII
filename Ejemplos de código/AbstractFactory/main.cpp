@@ -1,3 +1,4 @@
+//Patrón Abstract Factory integrado con Jira
 #include <iostream>
 #define DIFFICULT
 
@@ -62,6 +63,7 @@ class DifficultCakeFactory : public AbstractFactory {
         return new ThreeMilkCake;
     }
 };
+
 
 int main() {
 #ifdef DIFFICULT

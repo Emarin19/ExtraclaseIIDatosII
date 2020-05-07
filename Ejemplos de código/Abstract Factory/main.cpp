@@ -1,1 +1,0 @@
-cambio para probar integración en JIRA
