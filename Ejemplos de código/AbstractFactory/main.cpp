@@ -1,4 +1,4 @@
-//Patrón Abstract Factory integrado con Jira
+//Patrón Abstract Factory integrado con Jira, issue EI-4
 #include <iostream>
 #define DIFFICULT
 
